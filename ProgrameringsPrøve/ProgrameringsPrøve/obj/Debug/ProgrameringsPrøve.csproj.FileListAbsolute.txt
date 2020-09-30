@@ -1,0 +1,7 @@
+C:\Users\mich612i\OneDrive\program\C#\ProgrameringsPrøve\ProgrameringsPrøve\obj\Debug\ProgrameringsPrøve.csprojAssemblyReference.cache
+C:\Users\mich612i\OneDrive\program\C#\ProgrameringsPrøve\ProgrameringsPrøve\obj\Debug\ProgrameringsPrøve.csproj.CoreCompileInputs.cache
+C:\Users\mich612i\OneDrive\program\C#\ProgrameringsPrøve\ProgrameringsPrøve\bin\Debug\ProgrameringsPrøve.exe.config
+C:\Users\mich612i\OneDrive\program\C#\ProgrameringsPrøve\ProgrameringsPrøve\bin\Debug\ProgrameringsPrøve.exe
+C:\Users\mich612i\OneDrive\program\C#\ProgrameringsPrøve\ProgrameringsPrøve\bin\Debug\ProgrameringsPrøve.pdb
+C:\Users\mich612i\OneDrive\program\C#\ProgrameringsPrøve\ProgrameringsPrøve\obj\Debug\ProgrameringsPrøve.exe
+C:\Users\mich612i\OneDrive\program\C#\ProgrameringsPrøve\ProgrameringsPrøve\obj\Debug\ProgrameringsPrøve.pdb

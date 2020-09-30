@@ -1,0 +1,7 @@
+C:\Users\mich612i\OneDrive\program\C#\ThreadSync\ThreadSync\bin\Debug\ThreadSync.exe.config
+C:\Users\mich612i\OneDrive\program\C#\ThreadSync\ThreadSync\bin\Debug\ThreadSync.exe
+C:\Users\mich612i\OneDrive\program\C#\ThreadSync\ThreadSync\bin\Debug\ThreadSync.pdb
+C:\Users\mich612i\OneDrive\program\C#\ThreadSync\ThreadSync\obj\Debug\ThreadSync.csprojAssemblyReference.cache
+C:\Users\mich612i\OneDrive\program\C#\ThreadSync\ThreadSync\obj\Debug\ThreadSync.csproj.CoreCompileInputs.cache
+C:\Users\mich612i\OneDrive\program\C#\ThreadSync\ThreadSync\obj\Debug\ThreadSync.exe
+C:\Users\mich612i\OneDrive\program\C#\ThreadSync\ThreadSync\obj\Debug\ThreadSync.pdb

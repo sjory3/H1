@@ -1,0 +1,7 @@
+c:\users\mich612i\OneDrive\program\C#\FIFO\FIFO\bin\Debug\FIFO.exe.config
+c:\users\mich612i\OneDrive\program\C#\FIFO\FIFO\bin\Debug\FIFO.exe
+c:\users\mich612i\OneDrive\program\C#\FIFO\FIFO\bin\Debug\FIFO.pdb
+c:\users\mich612i\OneDrive\program\C#\FIFO\FIFO\obj\Debug\FIFO.csprojResolveAssemblyReference.cache
+c:\users\mich612i\OneDrive\program\C#\FIFO\FIFO\obj\Debug\FIFO.csproj.CoreCompileInputs.cache
+c:\users\mich612i\OneDrive\program\C#\FIFO\FIFO\obj\Debug\FIFO.exe
+c:\users\mich612i\OneDrive\program\C#\FIFO\FIFO\obj\Debug\FIFO.pdb

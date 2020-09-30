@@ -1,0 +1,7 @@
+c:\users\mich612i\OneDrive\program\C#\Geometri\Geometri\bin\Debug\Geometri.exe.config
+c:\users\mich612i\OneDrive\program\C#\Geometri\Geometri\bin\Debug\Geometri.exe
+c:\users\mich612i\OneDrive\program\C#\Geometri\Geometri\bin\Debug\Geometri.pdb
+c:\users\mich612i\OneDrive\program\C#\Geometri\Geometri\obj\Debug\Geometri.csprojResolveAssemblyReference.cache
+c:\users\mich612i\OneDrive\program\C#\Geometri\Geometri\obj\Debug\Geometri.csproj.CoreCompileInputs.cache
+c:\users\mich612i\OneDrive\program\C#\Geometri\Geometri\obj\Debug\Geometri.exe
+c:\users\mich612i\OneDrive\program\C#\Geometri\Geometri\obj\Debug\Geometri.pdb

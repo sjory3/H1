@@ -1,0 +1,7 @@
+c:\users\mich612i\OneDrive\program\C#\Queues\Queues\bin\Debug\Queues.exe.config
+c:\users\mich612i\OneDrive\program\C#\Queues\Queues\bin\Debug\Queues.exe
+c:\users\mich612i\OneDrive\program\C#\Queues\Queues\bin\Debug\Queues.pdb
+c:\users\mich612i\OneDrive\program\C#\Queues\Queues\obj\Debug\Queues.csprojResolveAssemblyReference.cache
+c:\users\mich612i\OneDrive\program\C#\Queues\Queues\obj\Debug\Queues.csproj.CoreCompileInputs.cache
+c:\users\mich612i\OneDrive\program\C#\Queues\Queues\obj\Debug\Queues.exe
+c:\users\mich612i\OneDrive\program\C#\Queues\Queues\obj\Debug\Queues.pdb

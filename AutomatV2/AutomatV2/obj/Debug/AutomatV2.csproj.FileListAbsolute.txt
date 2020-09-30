@@ -1,0 +1,7 @@
+C:\Users\mich612i\OneDrive\program\C#\AutomatV2\AutomatV2\bin\Debug\AutomatV2.exe.config
+C:\Users\mich612i\OneDrive\program\C#\AutomatV2\AutomatV2\bin\Debug\AutomatV2.exe
+C:\Users\mich612i\OneDrive\program\C#\AutomatV2\AutomatV2\bin\Debug\AutomatV2.pdb
+C:\Users\mich612i\OneDrive\program\C#\AutomatV2\AutomatV2\obj\Debug\AutomatV2.csprojAssemblyReference.cache
+C:\Users\mich612i\OneDrive\program\C#\AutomatV2\AutomatV2\obj\Debug\AutomatV2.csproj.CoreCompileInputs.cache
+C:\Users\mich612i\OneDrive\program\C#\AutomatV2\AutomatV2\obj\Debug\AutomatV2.exe
+C:\Users\mich612i\OneDrive\program\C#\AutomatV2\AutomatV2\obj\Debug\AutomatV2.pdb

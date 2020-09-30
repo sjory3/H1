@@ -1,0 +1,7 @@
+c:\users\mich612i\OneDrive\program\C#\Planets\Planets\bin\Debug\Planets.exe.config
+c:\users\mich612i\OneDrive\program\C#\Planets\Planets\bin\Debug\Planets.exe
+c:\users\mich612i\OneDrive\program\C#\Planets\Planets\bin\Debug\Planets.pdb
+c:\users\mich612i\OneDrive\program\C#\Planets\Planets\obj\Debug\Planets.csprojResolveAssemblyReference.cache
+c:\users\mich612i\OneDrive\program\C#\Planets\Planets\obj\Debug\Planets.csproj.CoreCompileInputs.cache
+c:\users\mich612i\OneDrive\program\C#\Planets\Planets\obj\Debug\Planets.exe
+c:\users\mich612i\OneDrive\program\C#\Planets\Planets\obj\Debug\Planets.pdb

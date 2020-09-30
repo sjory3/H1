@@ -1,0 +1,7 @@
+C:\Users\mich612i\OneDrive\program\C#\Opgave 5\Opgave 5\bin\Debug\Opgave 5.exe.config
+C:\Users\mich612i\OneDrive\program\C#\Opgave 5\Opgave 5\bin\Debug\Opgave 5.exe
+C:\Users\mich612i\OneDrive\program\C#\Opgave 5\Opgave 5\bin\Debug\Opgave 5.pdb
+C:\Users\mich612i\OneDrive\program\C#\Opgave 5\Opgave 5\obj\Debug\Opgave 5.csprojResolveAssemblyReference.cache
+C:\Users\mich612i\OneDrive\program\C#\Opgave 5\Opgave 5\obj\Debug\Opgave 5.csproj.CoreCompileInputs.cache
+C:\Users\mich612i\OneDrive\program\C#\Opgave 5\Opgave 5\obj\Debug\Opgave 5.exe
+C:\Users\mich612i\OneDrive\program\C#\Opgave 5\Opgave 5\obj\Debug\Opgave 5.pdb

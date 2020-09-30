@@ -1,0 +1,7 @@
+C:\Users\mich612i\OneDrive\program\C#\Texas-burger\Texas-burger\bin\Debug\Texas-burger.exe.config
+C:\Users\mich612i\OneDrive\program\C#\Texas-burger\Texas-burger\bin\Debug\Texas-burger.exe
+C:\Users\mich612i\OneDrive\program\C#\Texas-burger\Texas-burger\bin\Debug\Texas-burger.pdb
+C:\Users\mich612i\OneDrive\program\C#\Texas-burger\Texas-burger\obj\Debug\Texas-burger.csprojAssemblyReference.cache
+C:\Users\mich612i\OneDrive\program\C#\Texas-burger\Texas-burger\obj\Debug\Texas-burger.csproj.CoreCompileInputs.cache
+C:\Users\mich612i\OneDrive\program\C#\Texas-burger\Texas-burger\obj\Debug\Texas-burger.exe
+C:\Users\mich612i\OneDrive\program\C#\Texas-burger\Texas-burger\obj\Debug\Texas-burger.pdb

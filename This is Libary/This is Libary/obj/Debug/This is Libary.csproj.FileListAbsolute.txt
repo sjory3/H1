@@ -1,0 +1,7 @@
+c:\users\mich612i\OneDrive\program\C#\This is Libary\This is Libary\bin\Debug\This is Libary.exe.config
+c:\users\mich612i\OneDrive\program\C#\This is Libary\This is Libary\bin\Debug\This is Libary.exe
+c:\users\mich612i\OneDrive\program\C#\This is Libary\This is Libary\bin\Debug\This is Libary.pdb
+c:\users\mich612i\OneDrive\program\C#\This is Libary\This is Libary\obj\Debug\This is Libary.csprojResolveAssemblyReference.cache
+c:\users\mich612i\OneDrive\program\C#\This is Libary\This is Libary\obj\Debug\This is Libary.csproj.CoreCompileInputs.cache
+c:\users\mich612i\OneDrive\program\C#\This is Libary\This is Libary\obj\Debug\This is Libary.exe
+c:\users\mich612i\OneDrive\program\C#\This is Libary\This is Libary\obj\Debug\This is Libary.pdb

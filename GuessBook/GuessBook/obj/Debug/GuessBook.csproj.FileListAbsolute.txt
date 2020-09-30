@@ -1,0 +1,7 @@
+c:\users\mich612i\OneDrive\program\C#\GuessBook\GuessBook\bin\Debug\GuessBook.exe.config
+c:\users\mich612i\OneDrive\program\C#\GuessBook\GuessBook\bin\Debug\GuessBook.exe
+c:\users\mich612i\OneDrive\program\C#\GuessBook\GuessBook\bin\Debug\GuessBook.pdb
+c:\users\mich612i\OneDrive\program\C#\GuessBook\GuessBook\obj\Debug\GuessBook.csprojResolveAssemblyReference.cache
+c:\users\mich612i\OneDrive\program\C#\GuessBook\GuessBook\obj\Debug\GuessBook.csproj.CoreCompileInputs.cache
+c:\users\mich612i\OneDrive\program\C#\GuessBook\GuessBook\obj\Debug\GuessBook.exe
+c:\users\mich612i\OneDrive\program\C#\GuessBook\GuessBook\obj\Debug\GuessBook.pdb

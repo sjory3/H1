@@ -1,0 +1,7 @@
+C:\Users\mich612i\OneDrive\program\C#\Arrays and BubbleSort\Arrays and BubbleSort\bin\Debug\Arrays and BubbleSort.exe.config
+C:\Users\mich612i\OneDrive\program\C#\Arrays and BubbleSort\Arrays and BubbleSort\bin\Debug\Arrays and BubbleSort.exe
+C:\Users\mich612i\OneDrive\program\C#\Arrays and BubbleSort\Arrays and BubbleSort\bin\Debug\Arrays and BubbleSort.pdb
+C:\Users\mich612i\OneDrive\program\C#\Arrays and BubbleSort\Arrays and BubbleSort\obj\Debug\Arrays and BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\mich612i\OneDrive\program\C#\Arrays and BubbleSort\Arrays and BubbleSort\obj\Debug\Arrays and BubbleSort.exe
+C:\Users\mich612i\OneDrive\program\C#\Arrays and BubbleSort\Arrays and BubbleSort\obj\Debug\Arrays and BubbleSort.pdb
+C:\Users\mich612i\OneDrive\program\C#\Arrays and BubbleSort\Arrays and BubbleSort\obj\Debug\Arrays and BubbleSort.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\mich612i\OneDrive\program\C#\Performance\Performance\bin\Debug\Performance.exe.config
+C:\Users\mich612i\OneDrive\program\C#\Performance\Performance\bin\Debug\Performance.exe
+C:\Users\mich612i\OneDrive\program\C#\Performance\Performance\bin\Debug\Performance.pdb
+C:\Users\mich612i\OneDrive\program\C#\Performance\Performance\obj\Debug\Performance.csprojAssemblyReference.cache
+C:\Users\mich612i\OneDrive\program\C#\Performance\Performance\obj\Debug\Performance.csproj.CoreCompileInputs.cache
+C:\Users\mich612i\OneDrive\program\C#\Performance\Performance\obj\Debug\Performance.exe
+C:\Users\mich612i\OneDrive\program\C#\Performance\Performance\obj\Debug\Performance.pdb
