@@ -1,0 +1,6 @@
+C:\Users\michael\OneDrive\New folder\C#\Array Opgave 3\Array Opgave 3\bin\Debug\Array Opgave 3.exe.config
+C:\Users\michael\OneDrive\New folder\C#\Array Opgave 3\Array Opgave 3\bin\Debug\Array Opgave 3.exe
+C:\Users\michael\OneDrive\New folder\C#\Array Opgave 3\Array Opgave 3\bin\Debug\Array Opgave 3.pdb
+C:\Users\michael\OneDrive\New folder\C#\Array Opgave 3\Array Opgave 3\obj\Debug\Array Opgave 3.csproj.CoreCompileInputs.cache
+C:\Users\michael\OneDrive\New folder\C#\Array Opgave 3\Array Opgave 3\obj\Debug\Array Opgave 3.exe
+C:\Users\michael\OneDrive\New folder\C#\Array Opgave 3\Array Opgave 3\obj\Debug\Array Opgave 3.pdb
